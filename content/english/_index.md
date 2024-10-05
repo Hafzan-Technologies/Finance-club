@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Finance Club - Faculty of Management Studies, Marwadi University"
-  content: "Welcome to the Finance Club of FMS - Your Gateway to Financial Mastery! /n /n We are committed to empowering students with the knowledge and skills they need to excel in the world of finance. Whether you're a beginner or aspiring to be a financial expert, our club offers a supportive environment to help you gain financial acumen and thrive in your career."
+  content: "Welcome to the Finance Club of FMS - Your Gateway to Financial Mastery!"
   image: "/images/banner.png"
   button:
     enable: true
@@ -11,38 +11,32 @@ banner:
 
 # Features
 features:
-  - title: "About Nebula Intern"
+  - title: "About Finance Club"
     image: "/images/service-1.png"
-    content: "At Nebula Intern, we believe in the power of hands-on experience to transform careers. We connect ambitious students and young professionals with meaningful internship opportunities across various industries. Our platform is designed to help you gain practical skills, build valuable connections, and accelerate your career growth."
+    content: "As the official Finance Club of Marwadi University, our mission is to equip students with essential financial knowledge and skills. We provide a collaborative platform where students can develop their financial acumen through practical experiences, peer learning, and a wealth of educational resources."
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Featured Internships"
+  - title: "What We Do"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - Banking & Financial Services
-      - Software Engineering
-      - Law
-      - Consulting
-      - Accounting
-      - Data Security
-      - Marketing
+    content: "**Building Financial Acumen** : 
+---
+We help Marwadi University students master the foundations of finance, investments, and financial markets. Through interactive workshops, case studies, and practical exercises, you will learn how to analyze financial data, understand market trends, and make informed financial decisions."
     button:
       enable: true
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/hugoplate"
 
-  - title: "How It Works"
+  - title: "Free Financial Learning Hub"
     image: "/images/service-3.png"
-    content: "Explore our curated internships, apply for opportunities that match your goals, engage in hands-on experiences, and watch your career soar with Nebula Intern."
+    content: "Gain access to an array of complimentary educational tools designed specifically for Marwadi University students:"
     bulletpoints:
-      1. Explore: Browse through our diverse range of internship opportunities.
-      2. Apply: Choose an internship that aligns with your career goals and apply easily through our platform.
-      3. Complete the Project: Work on the project, submit your work, and receive valuable feedback.
-      4. Get Certified: Earn certificates and recommendations that add value to your resume.
+1. Books covering topics such as investment strategies, financial planning, and corporate finance.
+2. Financial Models in Excel for real-time application and deeper understanding of financial concepts.
+3. Comprehensive Financial Glossary to help you navigate and understand complex financial terminology.
+4. Educational Materials including financial reports, research papers, and curated learning content to support your growth.
     button:
       enable: false
       label: ""
