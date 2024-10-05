@@ -40,5 +40,31 @@
       "base": "18",
       "scale": "1.25"
     }
+  },
+  "global_styles": {
+    "body": {
+      "background_color": "#FFFFFF",
+      "color": "#003D5B"
+    },
+    "header": {
+      "background_color": "#005EB8",
+      "color": "#FFFFFF",
+      "border_bottom": "1px solid #E6E6E6"
+    },
+    "footer": {
+      "background_color": "#005EB8",
+      "color": "#FFFFFF",
+      "border_top": "1px solid #E6E6E6"
+    },
+    "button": {
+      "background_color": "#005EB8",
+      "color": "#FFFFFF",
+      "hover_background_color": "#004B87",
+      "border": "none"
+    },
+    "link": {
+      "color": "#005EB8",
+      "hover_color": "#004B87"
+    }
   }
 }
