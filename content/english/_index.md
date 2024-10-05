@@ -33,10 +33,10 @@ We help Marwadi University students master the foundations of finance, investmen
     image: "/images/service-3.png"
     content: "Gain access to an array of complimentary educational tools designed specifically for Marwadi University students:"
     bulletpoints:
-      1. Books covering topics such as investment strategies, financial planning, and corporate finance.
-      2. Financial Models in Excel for real-time application and deeper understanding of financial concepts.
-      3. Comprehensive Financial Glossary to help you navigate and understand complex financial terminology.
-      4. Educational Materials including financial reports, research papers, and curated learning content to support your growth.
+    - Books covering topics such as investment strategies, financial planning, and corporate finance.
+    = Financial Models in Excel for real-time application and deeper understanding offinancial concepts.
+    - Comprehensive Financial Glossary to help you navigate and understand complex financial terminology.
+    - Educational Materials including financial reports, research papers, and curated learning content to support your growth.
     button:
       enable: false
       label: ""
