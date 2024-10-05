@@ -3,6 +3,7 @@
     "default": {
       "theme_color": {
         "primary": "#005EB8",
+        "secondary": "#F6EB61",
         "body": "#FFFFFF",
         "border": "#E6E6E6",
         "theme_light": "#F1F3F5",
@@ -17,6 +18,7 @@
     "darkmode": {
       "theme_color": {
         "primary": "#005EB8",
+        "secondary": "#F6EB61",
         "body": "#1A1A1A",
         "border": "#3A3A3A",
         "theme_light": "#004B87",
@@ -60,6 +62,12 @@
       "background_color": "#005EB8",
       "color": "#FFFFFF",
       "hover_background_color": "#004B87",
+      "border": "none"
+    },
+    "button_secondary": {
+      "background_color": "#F6EB61",
+      "color": "#005EB8",
+      "hover_background_color": "#E5D45E",
       "border": "none"
     },
     "link": {
