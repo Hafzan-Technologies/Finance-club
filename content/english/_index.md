@@ -21,7 +21,7 @@ features:
 
   - title: "What We Do"
     image: "/images/service-2.png"
-    content: "**Building Financial Acumen** : 
+    content: "**Building Financial Acumen** :"
 ---
 We help Marwadi University students master the foundations of finance, investments, and financial markets. Through interactive workshops, case studies, and practical exercises, you will learn how to analyze financial data, understand market trends, and make informed financial decisions."
     button:
