@@ -2,43 +2,43 @@
   "colors": {
     "default": {
       "theme_color": {
-        "primary": "#5D3A9B",
-        "body": "#FFFFFF",
-        "border": "#D5DBDB",
-        "theme_light": "#F4ECF7",
-        "theme_dark": "#4A235A"
+        "primary": "#2C3E50",  // Dark blue-grey for a professional look
+        "body": "#F9F9F9",     // Light grey for a clean and modern feel
+        "border": "#BDC3C7",   // Soft grey for minimal contrast
+        "theme_light": "#ECF0F1", // Subtle light grey for soft elements
+        "theme_dark": "#34495E"  // Darker grey-blue for depth
       },
       "text_color": {
-        "default": "#4A235A",
-        "dark": "#1C1C1C",
-        "light": "#8E44AD"
+        "default": "#2C3E50",  // Dark blue-grey for text for easy readability
+        "dark": "#1B1B1B",     // Almost black for emphasis text
+        "light": "#7F8C8D"     // Muted grey for secondary or subtle text
       }
     },
     "darkmode": {
       "theme_color": {
-        "primary": "#9B59B6",
-        "body": "#1C1C1C",
-        "border": "#424242",
-        "theme_light": "#7D3C98",
-        "theme_dark": "#4A235A"
+        "primary": "#1A1A1A",  // Dark grey for a sleek dark mode
+        "body": "#141414",     // Very dark grey for the body background
+        "border": "#333333",   // Lighter grey for subtle borders
+        "theme_light": "#2C3E50", // Soft dark blue for lighter elements in dark mode
+        "theme_dark": "#1A1A1A"  // Deep dark grey for depth
       },
       "text_color": {
-        "default": "#D5DBDB",
-        "dark": "#FFFFFF",
-        "light": "#F4ECF7"
+        "default": "#F0F0F0",  // Light grey for text to contrast dark background
+        "dark": "#FFFFFF",     // Pure white for highlight text
+        "light": "#BDC3C7"     // Soft grey for secondary text
       }
     }
   },
   "fonts": {
     "font_family": {
-      "primary": "Playfair Display:wght@400;700",
-      "primary_type": "serif",
-      "secondary": "Lora:wght@400;700",
-      "secondary_type": "serif"
+      "primary": "Helvetica Neue:wght@400;700",  // Professional sans-serif for a modern look
+      "primary_type": "sans-serif",
+      "secondary": "Roboto:wght@400;700",  // Clean and widely accepted serif for secondary
+      "secondary_type": "sans-serif"
     },
     "font_size": {
-      "base": "18",
-      "scale": "1.375"
+      "base": "16",  // Slightly smaller for a more refined feel
+      "scale": "1.25"  // More subtle scaling for better readability
     }
   }
 }
