@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Navigating Your Career Through Hands-On Experience"
-  content: "Embark on a transformative journey navigating your career through hands-on experience with Nebula Intern. Discover opportunities that propel your professional growth and shape your future success."
+  title: "Finance Club - Faculty of Management Studies, Marwadi University"
+  content: "Welcome to the Finance Club of FMS - Your Gateway to Financial Mastery! /n /n We are committed to empowering students with the knowledge and skills they need to excel in the world of finance. Whether you're a beginner or aspiring to be a financial expert, our club offers a supportive environment to help you gain financial acumen and thrive in your career."
   image: "/images/banner.png"
   button:
     enable: true
