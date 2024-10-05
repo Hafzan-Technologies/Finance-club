@@ -2,30 +2,30 @@
   "colors": {
     "default": {
       "theme_color": {
-        "primary": "#005EB8",
-        "secondary": "#F6EB61",
+        "primary": "#000000",
+        "secondary": "#FFFFFF",
         "body": "#FFFFFF",
-        "border": "#E6E6E6",
-        "theme_light": "#F1F3F5",
-        "theme_dark": "#004B87"
+        "border": "#D1D1D1",
+        "theme_light": "#F4F4F4",
+        "theme_dark": "#1C1C1C"
       },
       "text_color": {
-        "default": "#003D5B",
+        "default": "#000000",
         "dark": "#1C1C1C",
-        "light": "#5B5B5B"
+        "light": "#7D7D7D"
       }
     },
     "darkmode": {
       "theme_color": {
-        "primary": "#005EB8",
-        "secondary": "#F6EB61",
+        "primary": "#FFFFFF",
+        "secondary": "#000000",
         "body": "#1A1A1A",
         "border": "#3A3A3A",
-        "theme_light": "#004B87",
+        "theme_light": "#D1D1D1",
         "theme_dark": "#0A0A0A"
       },
       "text_color": {
-        "default": "#FFFFFF",
+        "default": "#000000",
         "dark": "#E6E6E6",
         "light": "#B0BEC5"
       }
@@ -33,9 +33,9 @@
   },
   "fonts": {
     "font_family": {
-      "primary": "Roboto:wght@500;700",
+      "primary": "Montserrat:wght@600;700",
       "primary_type": "sans-serif",
-      "secondary": "Lato:wght@400;600",
+      "secondary": "Open Sans:wght@400;600",
       "secondary_type": "sans-serif"
     },
     "font_size": {
@@ -46,33 +46,33 @@
   "global_styles": {
     "body": {
       "background_color": "#FFFFFF",
-      "color": "#003D5B"
+      "color": "#000000"
     },
     "header": {
-      "background_color": "#005EB8",
+      "background_color": "#000000",
       "color": "#FFFFFF",
-      "border_bottom": "1px solid #E6E6E6"
+      "border_bottom": "1px solid #D1D1D1"
     },
     "footer": {
-      "background_color": "#005EB8",
+      "background_color": "#000000",
       "color": "#FFFFFF",
-      "border_top": "1px solid #E6E6E6"
+      "border_top": "1px solid #D1D1D1"
     },
     "button": {
-      "background_color": "#005EB8",
+      "background_color": "#000000",
       "color": "#FFFFFF",
-      "hover_background_color": "#004B87",
+      "hover_background_color": "#1C1C1C",
       "border": "none"
     },
     "button_secondary": {
-      "background_color": "#F6EB61",
-      "color": "#005EB8",
-      "hover_background_color": "#E5D45E",
-      "border": "none"
+      "background_color": "#FFFFFF",
+      "color": "#000000",
+      "hover_background_color": "#F4F4F4",
+      "border": "1px solid #000000"
     },
     "link": {
-      "color": "#005EB8",
-      "hover_color": "#004B87"
+      "color": "#000000",
+      "hover_color": "#1C1C1C"
     }
   }
 }
